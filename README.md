@@ -17,7 +17,7 @@ History: Involvement with vendor/product (IBM - [TSM], EMC, DELL, NetApp, Hitach
 DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN technologies
 <br>
 <br>
-###   [You can see my certifications here (not all inclusive)](./nkt-my-certifications.pdf)
+###   [You can see my certifications here (not all inclusive)](./nkt-scanned-certifications-wm.pdf)
 
 ###   [Check out my Wonderlic Personality Assessment Profile](./nkt-wonderlic-profile.pdf)
 <br>
