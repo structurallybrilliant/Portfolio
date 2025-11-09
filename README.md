@@ -22,6 +22,7 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 ###   [Project Samples](./nkt-work-project-samples.pdf)  
 Projects that I've spear headed, whether solo implementations or leading jr team mates in addition to other samples 
 such as datacenter lab mappings, along with some early career samples.
+<br>
 
 ###   [Geeking out on my home lab storage server](./nkt-technical-geeking-out.pdf)
 
