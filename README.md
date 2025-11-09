@@ -4,6 +4,10 @@ Portfolio of Work Samples and Documentations
 Welcome to my Portfolio page, where you can see some of my work samples and documentations.
 
 
+
+
+
+
 Systems Engineer with nearly 20 years of cumulative professional IT industry experience in storage, backup,
 systems configurations, installations, network support/troubleshooting, training, and documentation.
 
