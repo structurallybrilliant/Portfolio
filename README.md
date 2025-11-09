@@ -19,4 +19,6 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 <br>
 ###   [Check out my Wonderlic Personality Assessment Profile](./nkt-wonderlic-profile.pdf)
 
+###   [Geeking out on my home lab storage server](./nkt-technical-geeking-out.pdf)
+
 ###   [NFS lab : Setup and Troubleshooting](./nfs-lab-setup-troubleshooting-validation.pdf)
