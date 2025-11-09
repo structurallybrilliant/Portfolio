@@ -17,6 +17,8 @@ History: Involvement with vendor/product (IBM - [TSM], EMC, DELL, NetApp, Hitach
 DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN technologies
 <br>
 <br>
+###   [You can see my certifications here (not all inclusive)](./nkt-my-certifications.pdf)
+
 ###   [Check out my Wonderlic Personality Assessment Profile](./nkt-wonderlic-profile.pdf)
 <br>
 
@@ -25,6 +27,8 @@ Projects that I've spear headed, whether solo implementations or leading jr team
 such as datacenter lab mappings, along with some early career samples.
 <br>
 <br>
+
+###   [Nearly 500 pages of installation/configuration guide - documentation](./nkt-sample-guide-creation.pdf)
 
 ###   [Geeking out on my home lab storage server](./nkt-technical-geeking-out.pdf)
 
