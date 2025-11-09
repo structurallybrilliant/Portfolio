@@ -2,12 +2,10 @@
 Portfolio of Work Samples and Documentations
 
 Welcome to my Portfolio page, where you can see some of my work samples and documentations.
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 Systems Engineer with nearly 20 years of cumulative professional IT industry experience in storage, backup,
 systems configurations, installations, network support/troubleshooting, training, and documentation.
 
@@ -19,6 +17,8 @@ initiatives at all scope and scale.
 
 History: Involvement with vendor/product (IBM - [TSM], EMC, DELL, NetApp, Hitachi, Cisco,
 DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN technologies
-
-
-[NFS lab : Setup and Troubleshooting](./nfs-lab-setup-troubleshooting-validation.pdf)
+<br>
+<br>
+<br>
+<br>
+###   [NFS lab : Setup and Troubleshooting](./nfs-lab-setup-troubleshooting-validation.pdf)
