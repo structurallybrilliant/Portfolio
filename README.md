@@ -19,9 +19,10 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 <br>
 ###   [Check out my Wonderlic Personality Assessment Profile](./nkt-wonderlic-profile.pdf)
 
-
-###   Projects that I've spear headed, whether solo implementations or leading jr team mates in addition to other samples 
-  such as datacenter lab mappings, along with some early career samples.  [Project Samples](./nkt-work-project-samples.pdf)
+<br>
+Projects that I've spear headed, whether solo implementations or leading jr team mates in addition to other samples 
+such as datacenter lab mappings, along with some early career samples.
+###   [Project Samples](./nkt-work-project-samples.pdf)
 
 ###   [Geeking out on my home lab storage server](./nkt-technical-geeking-out.pdf)
 
