@@ -17,4 +17,6 @@ History: Involvement with vendor/product (IBM - [TSM], EMC, DELL, NetApp, Hitach
 DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN technologies
 <br>
 <br>
+###   [Check out my Wonderlic Personality Assessment Profile](./nkt-wonderlic-profile.pdf)
+
 ###   [NFS lab : Setup and Troubleshooting](./nfs-lab-setup-troubleshooting-validation.pdf)
