@@ -22,13 +22,6 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 ###   [Recommendation Letters - External validation of my character traits and skills](./nkt-recommendation-letters-wm.pdf)
 
 ###   [Check out my Wonderlic Personality Assessment Profile](./nkt-wonderlic-profile.pdf)
-<br>
-
-###   [Project Samples](./nkt-work-project-samples.pdf)  
-Projects that I've spear headed, whether solo implementations or leading jr team mates in addition to other samples 
-such as datacenter lab mappings, along with some early career samples.
-<br>
-<br>
 
 ###   [Nearly 500 pages of installation/configuration guide - documentation](./nkt-sample-guide-creation.pdf)
 
@@ -37,3 +30,8 @@ such as datacenter lab mappings, along with some early career samples.
 ###   [NFS lab : Setup and Troubleshooting](./nfs-lab-setup-troubleshooting-validation.pdf)
 
 ###   [Sample Rack Diagram Drawings](./nkt-sample-rack-drawings.pdf)
+<br>
+
+###   [Project Samples](./nkt-work-project-samples.pdf)  
+Projects that I've spear headed, whether solo implementations or leading jr team mates in addition to other samples 
+such as datacenter lab mappings, along with some early career samples.
