@@ -4,6 +4,7 @@ Portfolio of Work Samples and Documentations
 Welcome to my Portfolio page, where you can see some of my work samples and documentations.
 <br>
 <br>
+<br>
 Systems Engineer with nearly 20 years of cumulative professional IT industry experience in storage, backup,
 systems configurations, installations, network support/troubleshooting, training, and documentation.
 
@@ -15,6 +16,7 @@ initiatives at all scope and scale.
 
 History: Involvement with vendor/product (IBM - [TSM], EMC, DELL, NetApp, Hitachi, Cisco,
 DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN technologies
+<br>
 <br>
 <br>
 ###   [You can see my certifications here (not all inclusive)](./nkt-scanned-certifications-wm.pdf)
