@@ -20,21 +20,21 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 <br>
 <br>
 
-<a href="./nkt-scanned-certifications-wm.pdf" target="_blank"> You can see my certifications here (not all inclusive) </a>
+<a href="nkt-scanned-certifications-wm.pdf" target="_blank"> You can see my certifications here (not all inclusive) </a>
 
-###   [Recommendation Letters - External validation of my character traits and skills](./nkt-recommendation-letters-wm.pdf)
+<a href="nkt-recommendation-letters-wm.pdf" target="_blank"> Recommendation Letters - External validation of my character traits and skills </a>
 
-###   [Check out my Wonderlic Personality Assessment Profile](./nkt-wonderlic-profile.pdf)
+<a href="nkt-wonderlic-profile.pdf" target="_blank"> Check out my Wonderlic Personality Assessment Profile </a>
 
-###   [Nearly 500 pages of installation/configuration guide - documentation](./nkt-sample-guide-creation-wm.pdf)
+<a href="nkt-sample-guide-creation-wm.pdf" target="_blank"> Nearly 500 pages of installation/configuration guide - documentation </a>
 
-###   [Geeking out on my home lab storage server](./nkt-technical-geeking-out.pdf)
+<a href="nkt-technical-geeking-out.pdf" target="_blank"> Geeking out on my home lab storage server </a>
 
-###   [NFS lab : Setup and Troubleshooting](./nfs-lab-setup-troubleshooting-validation.pdf)
+<a href="nfs-lab-setup-troubleshooting-validation.pdf" target="_blank"> NFS lab : Setup and Troubleshooting </a>
 
-###   [Sample Rack Diagram Drawings](./nkt-sample-rack-drawings.pdf)
+<a href="nkt-sample-rack-drawings.pdf" target="_blank"> Sample Rack Diagram Drawings </a>
 <br>
 
-###   [Project Samples](./nkt-work-project-samples-wm.pdf)  
+<a href="nkt-work-project-samples-wm.pdf" tartget="_blank"> Project Samples  </a>
 Projects that I've spear headed, whether solo implementations or leading jr team mates in addition to other samples 
 such as datacenter lab mappings, along with some early career samples.
