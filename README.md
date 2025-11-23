@@ -19,7 +19,8 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 <br>
 <br>
 <br>
-###   [You can see my certifications here (not all inclusive)](./nkt-scanned-certifications-wm.pdf)
+
+<a href="./nkt-scanned-certifications-wm.pdf" target="_blank"> You can see my certifications here (not all inclusive) </a>
 
 ###   [Recommendation Letters - External validation of my character traits and skills](./nkt-recommendation-letters-wm.pdf)
 
