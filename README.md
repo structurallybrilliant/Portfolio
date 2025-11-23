@@ -35,7 +35,7 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 <a href="nkt-sample-rack-drawings.pdf" target="_blank"> Sample Rack Diagram Drawings </a>
 <br>
 
-<a href="nkt-work-project-samples-wm.pdf" tartget="_blank"> Project Samples </a>
+<a href="nkt-work-project-samples-wm.pdf" target="_blank"> Project Samples </a>
 
 Projects that I've spear headed, whether solo implementations or leading jr team mates in addition to other samples 
 such as datacenter lab mappings, along with some early career samples.
