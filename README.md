@@ -30,6 +30,8 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 
 <a href="nkt-technical-geeking-out.pdf" target="_blank"> Geeking out on my home lab storage server </a>
 
+<a href="nkt-sample-solaris-hosts-backups.pdf" target="_blank"> Solaris storage pools backup, lun creations, nas sharing </a>
+
 <a href="storage-migration-lab-documentation.pdf" target="_blank"> Updated custom built storage server to a more robust platform storage server </a>
 
 <a href="nfs-lab-setup-troubleshooting-validation.pdf" target="_blank"> NFS lab : Setup and Troubleshooting </a>
