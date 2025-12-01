@@ -30,6 +30,8 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 
 <a href="nkt-technical-geeking-out.pdf" target="_blank"> Geeking out on my home lab storage server </a>
 
+<a href="storage-migration-lab-documentation.pdf" target="_blank"> Updated custom built storage server to more robust platform storage server </a>
+
 <a href="nfs-lab-setup-troubleshooting-validation.pdf" target="_blank"> NFS lab : Setup and Troubleshooting </a>
 
 <a href="nkt-sample-rack-drawings.pdf" target="_blank"> Sample Rack Diagram Drawings </a>
