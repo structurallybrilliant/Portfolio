@@ -24,7 +24,7 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 
 <a href="nkt-recommendation-letters-wm.pdf" target="_blank"> Recommendation Letters - External validation of my character traits and skills </a>
 
-Peer and Post Project accolades
+<a href="nkt-project-accolades.pdf" target="_blank"> Lead engineer on projects, post completion handoff accolades </a>
 
 <a href="nkt-wonderlic-profile.pdf" target="_blank"> Check out my Wonderlic Personality Assessment Profile </a>
 
@@ -47,5 +47,5 @@ Peer and Post Project accolades
 
 <a href="nkt-work-project-samples-wm.pdf" target="_blank"> Project Samples </a>
 
-Projects that I've spear headed, whether solo implementations or leading jr team mates in addition to other samples 
+Cumulative Projects that I've spear headed, whether solo implementations or leading jr team mates in addition to other samples 
 such as datacenter lab mappings, along with some early career samples.
