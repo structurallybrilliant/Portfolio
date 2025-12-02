@@ -38,6 +38,8 @@ Peer and Post Project accolades
 
 <a href="nkt-sample-solaris-hosts-backups.pdf" target="_blank"> Solaris storage pools backup, lun creations, nas sharing </a>
 
+<a href="nkt-sample-dcim-rack-buildout.pdf" target="_blank"> Data Center Infrastructure Management (DCIM) 3D rack proof of concepts drawing </a>
+
 <a href="nkt-sample-rack-drawings.pdf" target="_blank"> Sample Rack Diagram Drawings </a>
 
 <a href="nkt-sample-guide-creation-wm.pdf" target="_blank"> Nearly 500 pages of installation/configuration guide - documentation </a>
