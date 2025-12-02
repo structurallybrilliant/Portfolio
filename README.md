@@ -19,6 +19,7 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 <br>
 <br>
 <br>
+<a href="nkt-hpc-ai-talk.pdf" target="_blank"> Let's talk about where and how I can fit in your HPC/AI environment </a>
 
 <a href="nkt-scanned-certifications-wm.pdf" target="_blank"> You can see my certifications here (not all inclusive) </a>
 
