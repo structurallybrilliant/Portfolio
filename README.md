@@ -24,19 +24,23 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 
 <a href="nkt-recommendation-letters-wm.pdf" target="_blank"> Recommendation Letters - External validation of my character traits and skills </a>
 
-<a href="nkt-wonderlic-profile.pdf" target="_blank"> Check out my Wonderlic Personality Assessment Profile </a>
+Peer and Post Project accolades
 
-<a href="nkt-sample-guide-creation-wm.pdf" target="_blank"> Nearly 500 pages of installation/configuration guide - documentation </a>
+<a href="nkt-wonderlic-profile.pdf" target="_blank"> Check out my Wonderlic Personality Assessment Profile </a>
 
 <a href="nkt-sample-home-lab-setup-geeking-out.pdf" target="_blank"> Geeking out on my home lab storage server : luns provisioned and nas shares across linux, windows, mac </a>
 
-<a href="nkt-sample-solaris-hosts-backups.pdf" target="_blank"> Solaris storage pools backup, lun creations, nas sharing </a>
-
 <a href="storage-migration-lab-documentation.pdf" target="_blank"> Updated custom built storage server to a more robust platform storage server </a>
+
+<a href="nkt-sample-test-array-redesign-redeployment.pdf" target="_blank"> FIXED and CORRECTED an incorrect, misconfigured initially deployed QA testbed environment </a>
 
 <a href="nfs-lab-setup-troubleshooting-validation.pdf" target="_blank"> NFS lab : Setup and Troubleshooting </a>
 
+<a href="nkt-sample-solaris-hosts-backups.pdf" target="_blank"> Solaris storage pools backup, lun creations, nas sharing </a>
+
 <a href="nkt-sample-rack-drawings.pdf" target="_blank"> Sample Rack Diagram Drawings </a>
+
+<a href="nkt-sample-guide-creation-wm.pdf" target="_blank"> Nearly 500 pages of installation/configuration guide - documentation </a>
 <br>
 
 <a href="nkt-work-project-samples-wm.pdf" target="_blank"> Project Samples </a>
