@@ -5,7 +5,7 @@ Welcome to my Portfolio page, where you can see some of my work samples and docu
 <br>
 <br>
 <br>
-Systems Engineer with nearly 20 years of cumulative professional IT industry experience in storage, backup,
+Staff/Principal level Systems Engineer with nearly 20 years of cumulative professional IT industry experience in storage, backup,
 systems configurations, installations, network support/troubleshooting, training, and documentation.
 
 Various clientele of all sizes and environments: higher education, financial institutions, property management
