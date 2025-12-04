@@ -29,10 +29,12 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 
 <a href="nkt-wonderlic-profile.pdf" target="_blank"> Check out my Wonderlic Personality Assessment Profile </a>
 <br>
+<br>
 
 <a href="nkt-sample-home-lab-setup-geeking-out.pdf" target="_blank"> Geeking out on my home lab storage server : luns provisioned and nas shares across linux, windows, mac </a>
 
 <a href="storage-migration-lab-documentation.pdf" target="_blank"> Updated custom built storage server to a more robust platform storage server </a>
+<br>
 <br>
 
 <a href="nkt-sample-linux-aiml-panic-updates.pdf" target="_blank"> Evidence of Linux AI/ML Infrastructure compute nodes management and support </a>
