@@ -41,6 +41,8 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 
 <a href="nkt-sample-ece-arista-cisco-lab-rebuild.pdf" target="_blank"> Rebuilt the Arista/Cisco Network Learning Lab for Dept of Electrical and Computer Engineering at NCSU </a>
 
+<a href="nkt-sample-how-to-datacenter.pdf" target="_blank"> HOW TO data center, good standards and best practices compared to how NOT to </a>
+
 <a href="nkt-sample-how-to-not-datacenter.pdf" target="_blank"> How to NOT data center, maybe a little salvation at the end ;-) </a>
 
 <a href="nkt-sample-test-array-redesign-redeployment.pdf" target="_blank"> FIXED and CORRECTED an incorrect, misconfigured initially deployed QA testbed environment </a>
