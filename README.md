@@ -35,6 +35,8 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 <a href="storage-migration-lab-documentation.pdf" target="_blank"> Updated custom built storage server to a more robust platform storage server </a>
 <br>
 
+<a href="nkt-sample-linux-aiml-panic-updates.pdf" target="_blank"> Evidence of Linux AI/ML Infrastructure compute nodes management and support </a>
+
 <a href="nkt-sample-ece-arista-cisco-lab-rebuild.pdf" target="_blank"> Rebuilt the Arista/Cisco Network Learning Lab for Dept of Electrical and Computer Engineering at NCSU </a>
 
 <a href="nkt-sample-test-array-redesign-redeployment.pdf" target="_blank"> FIXED and CORRECTED an incorrect, misconfigured initially deployed QA testbed environment </a>
