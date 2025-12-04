@@ -35,6 +35,8 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 
 <a href="nkt-sample-test-array-redesign-redeployment.pdf" target="_blank"> FIXED and CORRECTED an incorrect, misconfigured initially deployed QA testbed environment </a>
 
+<a href="nkt-sample-how-to-not-datacenter.pdf" target="_blank"> How to NOT data center, maybe a little salvation at the end ;-) </a>
+
 <a href="nfs-lab-setup-troubleshooting-validation.pdf" target="_blank"> NFS lab : Setup and Troubleshooting </a>
 
 <a href="nkt-sample-solaris-hosts-backups.pdf" target="_blank"> Solaris storage pools backup, lun creations, nas sharing </a>
