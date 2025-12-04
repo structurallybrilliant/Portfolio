@@ -28,10 +28,14 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 <a href="nkt-project-accolades.pdf" target="_blank"> Lead engineer on projects, post completion handoff accolades </a>
 
 <a href="nkt-wonderlic-profile.pdf" target="_blank"> Check out my Wonderlic Personality Assessment Profile </a>
+<br>
 
 <a href="nkt-sample-home-lab-setup-geeking-out.pdf" target="_blank"> Geeking out on my home lab storage server : luns provisioned and nas shares across linux, windows, mac </a>
 
 <a href="storage-migration-lab-documentation.pdf" target="_blank"> Updated custom built storage server to a more robust platform storage server </a>
+<br>
+
+<a href="nkt-sample-ece-arista-cisco-lab-rebuild.pdf" target="_blank"> Rebuilt the Arista/Cisco Network Learning Lab for Dept of Electrical and Computer Engineering at NCSU </a>
 
 <a href="nkt-sample-test-array-redesign-redeployment.pdf" target="_blank"> FIXED and CORRECTED an incorrect, misconfigured initially deployed QA testbed environment </a>
 
