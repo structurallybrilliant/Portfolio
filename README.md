@@ -55,6 +55,7 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 
 <a href="nkt-sample-guide-creation-wm.pdf" target="_blank"> Nearly 500 pages of installation/configuration guide - documentation </a>
 <br>
+<br>
 
 <a href="nkt-work-project-samples-wm.pdf" target="_blank"> Project Samples </a>
 
