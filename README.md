@@ -57,6 +57,8 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 
 <a href="nkt-sample-rack-drawings.pdf" target="_blank"> Sample Rack Diagram Drawings </a>
 
+<a href="nkt-sample-tsm-internal-projects.pdf" target="_blank"> Tivoli Storage Manager (TSM) internal projects, in my early career </a>
+
 <a href="nkt-sample-guide-creation-wm.pdf" target="_blank"> Nearly 500 pages of installation/configuration guide - documentation </a>
 <br>
 <br>
