@@ -27,7 +27,7 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 
 <a href="nkt-project-accolades.pdf" target="_blank"> Lead engineer on projects, post completion handoff accolades </a>
 
-<a href="nkt-wonderlic-profile.pdf" target="_blank"> Check out my Wonderlic Personality Assessment Profile </a>
+<a href="nkt-wonderlic-profile-wm.pdf" target="_blank"> Check out my Wonderlic Personality Assessment Profile </a>
 <br>
 <br>
 
