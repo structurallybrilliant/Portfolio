@@ -21,7 +21,7 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 <br>
 <a href="nkt-hpc-ai-talk.pdf" target="_blank"> Let's talk about where and how I can fit in your HPC/AI environment </a>
 
-<a href="nkt-scanned-certifications-wm.pdf" target="_blank"> You can see my certifications here (not all inclusive) </a>
+<a href="nkt-sample-scanned-certifications.pdf" target="_blank"> You can see my certifications here (not all inclusive) </a>
 
 <a href="nkt-recommendation-letters-wm.pdf" target="_blank"> Recommendation Letters - External validation of my character traits and skills </a>
 
@@ -33,7 +33,7 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 
 <a href="nkt-sample-home-lab-setup-geeking-out.pdf" target="_blank"> Geeking out on my home lab storage server : luns provisioned and nas shares across linux, windows, mac </a>
 
-<a href="storage-migration-lab-documentation.pdf" target="_blank"> Updated custom built storage server to a more robust platform storage server </a>
+<a href="nkt-sample-storage-migration-lab-documentation.pdf" target="_blank"> Updated custom built storage server to a more robust platform storage server </a>
 <br>
 <br>
 
@@ -47,7 +47,7 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 
 <a href="nkt-sample-test-array-redesign-redeployment.pdf" target="_blank"> FIXED and CORRECTED an incorrect, misconfigured initially deployed QA testbed environment </a>
 
-<a href="nfs-lab-setup-troubleshooting-validation.pdf" target="_blank"> NFS lab : Setup and Troubleshooting </a>
+<a href="nkt-sample-nfs-lab-setup-troubleshooting-validation.pdf" target="_blank"> NFS lab : Setup and Troubleshooting </a>
 
 <a href="nkt-sample-solaris-hosts-backups.pdf" target="_blank"> Solaris storage pools backup, lun creations, nas sharing </a>
 
@@ -59,7 +59,7 @@ DCIM [iTRACs]) implementation, administration, disaster recovery, and SAN techno
 
 <a href="nkt-sample-tsm-internal-projects.pdf" target="_blank"> Tivoli Storage Manager (TSM) internal projects, in my early career </a>
 
-<a href="nkt-sample-guide-creation-wm.pdf" target="_blank"> Nearly 500 pages of installation/configuration guide - documentation </a>
+<a href="nkt-sample-guide-creation.pdf" target="_blank"> Nearly 500 pages of installation/configuration guide - documentation </a>
 <br>
 <br>
 
